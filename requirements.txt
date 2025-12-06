@@ -4,6 +4,3 @@ numpy
 scikit-learn
 xgboost
 joblib
-google-cloud-bigquery
-pyarrow
-db-dtypes
